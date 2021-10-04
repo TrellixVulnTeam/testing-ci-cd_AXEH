@@ -1,0 +1,8 @@
+export const GET_ALL_STUDENTS = 'GET_ALL_STUDENTS';
+export const SET_LOADING = 'SET_LOADING';
+export const DELETE_STUDENT = 'DELETE_STUDENT';
+export const ADD_NEW_STUDENT = 'ADD_NEW_STUDENT';
+
+
+
+export const SHOW_ALERT = 'SHOW_ALERT';
