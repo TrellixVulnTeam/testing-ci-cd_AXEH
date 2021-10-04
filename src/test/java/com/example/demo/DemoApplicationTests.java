@@ -10,6 +10,9 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 		Assertions.fail("Ops Something went wrong");
+		Assertions.fail("Ops Something went wrong2");
+		Assertions.fail("Ops Something went wrong3");
+
 	}
 
 }
