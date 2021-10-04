@@ -9,6 +9,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		Assertions.fail("Ops Something went wrong");
 	}
 
 }
